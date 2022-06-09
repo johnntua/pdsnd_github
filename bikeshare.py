@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 #This a comment about a change for the 3rd project
+#Here is a second comment about the 3rd project
 
 #Creating a dictionary containing the data from the csv files of Chicago, New York City and Washington
 CITY_DATA = { 'chicago': 'chicago.csv', 'Chicago': 'chicago.csv',
