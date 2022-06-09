@@ -4,7 +4,7 @@
 June 9th 2022
 
 ### Git Project
-Git Project for Udacity
+Git Project for Udacity by Ioannis
 
 ### Description
 Creates a repo on github and moves the files of the bikeshare project on github.
